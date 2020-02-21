@@ -96,7 +96,7 @@
     vm.validTTNconfig = true;
     vm.validMQTTURL = false;
     vm.ttn = {
-      profile: 'sensebox/home',
+      profile: 'sensebox/custom',
       app_id: '',
       dev_id: '',
       decodeOptions: '[]'

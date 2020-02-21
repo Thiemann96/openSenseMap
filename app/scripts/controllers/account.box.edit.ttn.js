@@ -11,7 +11,7 @@
     var vm = this;
     vm.validTTNconfig = true;
     vm.settings = {
-      profile: 'sensebox/home',
+      profile: 'sensebox/custom',
       app_id: '',
       dev_id: '',
       decodeOptions: '[]'
